@@ -1,4 +1,4 @@
-# Nuxt Minimal Starter
+# 一个自我学习的站点
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
