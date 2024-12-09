@@ -38,8 +38,8 @@ type refItem = Element | ComponentPublicInstance | null;
 </script>
 
 <template>
-  <div class="box">
-    <el-form :model="form" label-width="auto" style="max-width: 600px; margin-top: 100px;">
+  <div class="box mt-100px">
+    <el-form :model="form" label-width="auto" style="max-width: 600px;">
       <el-form-item>
         <el-input
             v-model="form.name"
